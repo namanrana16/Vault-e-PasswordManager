@@ -1,15 +1,15 @@
 # PasswordManager
 
-An offline password manager for generating and saving password with industry level encryption.
+An offline password manager for generating and saving passwords with industry-level encryption.
 
 
-The app is completely offline for zero interferance , uses best in class encryption for storing passwords.
+The app is completely offline for zero interferance, uses best in class encryption for storing passwords.
 
-Generates very strong passwords and saves it. 
+Generates very strong passwords and saves them. 
 
 Also has an option to save existing passwords.
 
-You can delete a specific account details or all account deatils, as well as the your app account as well.
+You can delete a specific account's details or all account details, as well as the your app account as well.
 
 ![WhatsApp Image 2021-07-01 at 16 45 13](https://user-images.githubusercontent.com/47075510/124116493-9e3ce680-da8c-11eb-89ef-6a42a2a5e7d8.jpeg)
 
